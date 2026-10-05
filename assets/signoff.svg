@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" role="img" aria-labelledby="title desc"><title id="title">Thanks for wandering in.</title><desc id="desc">A closing note from ydot20.</desc><defs>
+    <linearGradient id="duckGold" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#ffe77f"/><stop offset=".5" stop-color="#ffcf42"/><stop offset="1" stop-color="#eca927"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#555b50"/><stop offset=".4" stop-color="#383e35"/><stop offset="1" stop-color="#2b302a"/></linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#42493d"/><stop offset="1" stop-color="#252b25"/></linearGradient>
+    <radialGradient id="eyeGold"><stop stop-color="#fff5c1"/><stop offset=".54" stop-color="#ffe275"/><stop offset="1" stop-color="#ec9d2b"/></radialGradient>
+    <radialGradient id="halo"><stop stop-color="#ffcf42" stop-opacity=".09"/><stop offset="1" stop-color="#ffcf42" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#9da48c" opacity=".15"/></pattern>
+    </defs><path d="M0 49H304M656 49H960" stroke="#827c65" stroke-opacity=".3"/><text x="480" y="39" fill="#8b886f" font-size="23" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">thanks for wandering in.</text><text x="480" y="67" fill="#8b886f" font-size="10" font-family="monospace" font-weight="400" text-anchor="middle" letter-spacing="2">LEAVE ROOM FOR A LITTLE WONDER</text></svg>
